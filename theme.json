@@ -1,0 +1,55 @@
+{
+  "manifest_version": 2,
+
+  "applications": {
+    "gecko": {
+      "id": "nordik-darker-theme@tiberius",
+      "strict_min_version": "89.0"
+    }
+  },
+
+  "name": "Nordic Darker Theme",
+  "version": "2021.12.27",
+  "description": "Nordic-darker GTK theme port for Firefox",
+
+  "theme": {
+    "colors": {
+      "bookmark_text": "#d8dee9",
+      "button_background_active": "#3b4252",
+      "button_background_hover": "#3b4252",
+      "frame": "#3b4252",
+      "frame_inactive": "#2f343f",
+      "icons": "#d8dee9",
+      "icons_attention": "#ebcb8b",
+      "ntp_background": "#2e3440",
+      "ntp_text": "#d8dee9",
+      "popup": "#3b4252",
+      "popup_border": "#111318",
+      "popup_highlight": "#4c566a",
+      "popup_highlight_text": "#d8dee9",
+      "popup_text": "#d3dae3",
+      "sidebar": "#2e3440",
+      "sidebar_border": "#3b4252",
+      "sidebar_highlight": "#4c566a",
+      "sidebar_highlight_text": "#d8dee9",
+      "sidebar_text": "#d8dee9",
+      "tab_background_separator": "rgba(255, 255, 255, 0.5)",
+      "tab_background_text": "#d3dae3",
+      "tab_line": "#d08770",
+      "tab_loading": "#a3be8c",
+      "tab_selected": "#2f343f",
+      "tab_text": "#d8dee9",
+      "toolbar": "#2e3440",
+      "toolbar_bottom_separator": "#3b4252",
+      "toolbar_field": "#2e3440",
+      "toolbar_field_border": "#2e3440",
+      "toolbar_field_border_focus": "#4c566a",
+      "toolbar_field_focus": "#2e3440",
+      "toolbar_field_highlight": "#4c566a",
+      "toolbar_field_highlight_text": "#d8dee9",
+      "toolbar_field_text": "#d8dee9",
+      "toolbar_top_separator": "#3b4252",
+      "toolbar_vertical_separator": "#373b45"
+    }
+  }
+}
