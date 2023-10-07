@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
 
-  "applications": {
+  "browser_specific_settings": {
     "gecko": {
       "id": "nordik-darker-theme@tiberius",
       "strict_min_version": "89.0"
@@ -9,7 +9,7 @@
   },
 
   "name": "Nordic Darker Theme",
-  "version": "2021.12.27",
+  "version": "2023.10.7",
   "description": "Nordic-darker GTK theme port for Firefox",
 
   "theme": {
